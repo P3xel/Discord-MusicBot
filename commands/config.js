@@ -25,7 +25,7 @@ module.exports = {
       .setDescription(`
 What would you like to edit?
 
-:one: - Server Prefix
+:one: - OTkyNDkxNzk2NDM1MzI0OTI5.GQK0yC.nB8sIY_TRKz2zWfDwAjsMbiUtCQ_8xsSH9_UBw
 :two: - DJ Role
 `);
 
